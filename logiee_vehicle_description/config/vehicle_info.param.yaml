@@ -6,8 +6,8 @@
     wheel_tread: 0.45 # between left wheel center and right wheel center
     front_overhang: 0.45 # between front wheel center and vehicle front
     rear_overhang: 0.15 # between rear wheel center and vehicle rear
-    # vehicle_width: 0.50
-    # vehicle_length: 0.60  # front_overhang + rear_overhang
+    vehicle_width: 0.50
+    vehicle_length: 0.60  # front_overhang + rear_overhang
     vehicle_height: 0.50
     # caster_wheel_radius: 0.08    
     left_overhang: 0.060 # between left wheel center and vehicle left
